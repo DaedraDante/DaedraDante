@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @DaedraDante
-- 👀 I’m interested in frontend web developing
-- 🌱 I’m currently learning html/css and im about to finish the responsive web design certification on freecodecamp and after that
-im gonna keep making some html/css projects by myself and move on to the javascript course 
-- 💞️ I’m looking forward to receiving help from whoever wants to offer it :D
+- I'm Octavian
+- I went over HTML/CSS/JavaScript
+- Currently Learning REACT
+- I'll learn TypeScript and Redux soon
+- Looking forward to freelance in web developement or create my apps ,
+ or just get enough experience to apply for a job
+  : )
 
 <!---
 DaedraDante/DaedraDante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
